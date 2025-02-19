@@ -1,5 +1,10 @@
 # nlw-connect-node-main
-Node.js Application
+
+Sistema de Indicações - Referral System
+- Javascript ao lado do back-end
+- Quando uma pessoa se cadastra em um evento, pode fazer uma indicação para outra pessoa
+- Quanto mais indicações, mais a pessoa soma pontos para o ranking
+- Utilizado 2 bancos de dados diferentes
 
 Instalar o Node.js
 - baixar pelo site próprio deles (versão 18 pra cima)
