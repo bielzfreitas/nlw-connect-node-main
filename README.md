@@ -21,6 +21,8 @@ Como identificar se o docker está funcionando
 - para executar: docker run hello-world
 - se retornar a seguinte mensagem, o docker vai estar funcionando:
 
+---------------------------------------------------------------------------------------------
+
 Hello from Docker!
 This message shows that your installation appears to be working correctly.
 
@@ -41,6 +43,8 @@ Share images, automate workflows, and more with a free Docker ID:
 
 For more examples and ideas, visit:
  https://docs.docker.com/get-started/
+
+---------------------------------------------------------------------------------------------
 
 Alguns comandos do Docker
 - docker ps (imagens que estão em execução)
