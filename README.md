@@ -1,4 +1,4 @@
-# nlw-connect-node-main
+# NLW Connect - Node.js
 
 Sistema de Indicações - Referral System
 - Javascript ao lado do back-end
